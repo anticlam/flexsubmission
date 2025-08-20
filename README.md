@@ -7,7 +7,7 @@
 
 
 # Flex Living - Developer Assessment
-A developer assessment I did for this one company. I passed all of the technical interviews and assessments with flying colors. They were particularly impressed by this dashboard. Unfortunately, after wasting my time with all this hard work, the CEO (in a non-technical interview) decided I wasn't a good "culture fit" because he asked me a question where an expected answer was that I should ask companies' for their customers' log-ins so that I could collect their private data. Shady, scammy, company with an unqualified person cosplaying CEO. Stay away, both as a consumer and developer.
+A developer assessment I did for this one company. I passed all of the technical interviews and assessments with flying colors. They were particularly impressed by this dashboard. Unfortunately, after wasting my time with all this hard work, the CEO (in a non-technical interview) decided I wasn't a good "culture fit" because he asked me a question where an expected answer was that I should ask companies' for their customers' log-ins so that I could collect their private data. Shady, scammy, company with an unqualified person cosplaying CEO. Stay away, both as a consumer and developer. Released under a copyleft license to prevent them from getting any benifit from this (this dashboard was an actual thing they wanted), although I doubt they care about the law or stealing things — they may have already stolen it for all I know. Using recruitment projects as free labor is pretty clever.
 
 ## 🚀 Quick Start
 
