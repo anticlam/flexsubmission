@@ -1,0 +1,15 @@
+{
+  "name": "flex-living-dashboard",
+  "version": "1.0.0",
+  "description": "Reviews Dashboard for Flex Living - Developer Assessment",
+  "scripts": {
+    "start": "node start-all.js",
+    "dev": "node start-all.js",
+    "backend": "cd flex-dashboard-backend && node server.js",
+    "frontend": "cd flex-dashboard-frontend && npm run dev",
+    "install-all": "cd flex-dashboard-backend && npm install && cd ../flex-dashboard-frontend && npm install"
+  },
+  "dependencies": {
+    "react-router-dom": "^7.7.0"
+  }
+}

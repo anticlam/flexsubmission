@@ -1,0 +1,215 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 1001,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "An absolutely fantastic stay! The apartment was spotless, beautifully decorated, and had everything we needed. The location is perfect. Will definitely be back.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "respect_house_rules", "rating": 9 }
+      ],
+      "submittedAt": "2025-05-15 11:30:00",
+      "guestName": "Jane Doe",
+      "listingName": "Chic Parisian Studio with Eiffel Tower View"
+    },
+    {
+      "id": 1002,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Good value for money and a great location. The check-in process was a bit confusing, but the host was responsive and helped us figure it out.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 9 },
+        { "category": "respect_house_rules", "rating": 7 }
+      ],
+      "submittedAt": "2025-04-20 18:00:22",
+      "guestName": "John Smith",
+      "listingName": "Modern London Flat near the Tube"
+    },
+    {
+      "id": 1003,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": null,
+      "publicReview": "John was a respectful and tidy guest. We would be happy to host him again.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "respect_house_rules", "rating": 10 }
+      ],
+      "submittedAt": "2025-04-22 10:00:00",
+      "guestName": "John Smith",
+      "listingName": "Modern London Flat near the Tube"
+    },
+    {
+      "id": 1004,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Beautiful property in Chelsea Harbour! The views were stunning and the apartment was immaculate. Perfect location near the river and shops. Highly recommend!",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 9 },
+        { "category": "respect_house_rules", "rating": 10 }
+      ],
+      "submittedAt": "2025-06-01 14:20:00",
+      "guestName": "Sarah Wilson",
+      "listingName": "2 Bed Balcony Flat Chelsea Harbour"
+    },
+    {
+      "id": 1005,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great stay in Chelsea! The flat was spacious and well-equipped. Could be a bit quieter at night, but overall a wonderful experience.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 8 },
+        { "category": "respect_house_rules", "rating": 8 }
+      ],
+      "submittedAt": "2025-05-28 16:45:00",
+      "guestName": "Michael Brown",
+      "listingName": "2 Bed Balcony Flat Chelsea Harbour"
+    },
+    {
+      "id": 1006,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Absolutely loved our stay! The apartment was bright, clean, and in a fantastic neighborhood. The host was incredibly helpful with local recommendations. A perfect experience.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "respect_house_rules", "rating": 10 }
+      ],
+      "submittedAt": "2025-06-10 09:15:00",
+      "guestName": "Emily Carter",
+      "listingName": "Sunny Apartment in Barcelona"
+    },
+    {
+      "id": 1007,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "A decent place to stay. The location is great and the apartment is spacious. However, the Wi-Fi was a bit unreliable and the street noise was noticeable at night.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 7 },
+        { "category": "respect_house_rules", "rating": 9 }
+      ],
+      "submittedAt": "2025-05-22 12:00:00",
+      "guestName": "David Chen",
+      "listingName": "Sunny Apartment in Barcelona"
+    },
+    {
+      "id": 1008,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Unfortunately, our stay was disappointing. The apartment was not as clean as we expected, and several amenities listed were missing. We had to contact the host multiple times to get issues resolved.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 3 },
+        { "category": "communication", "rating": 5 },
+        { "category": "respect_house_rules", "rating": 7 }
+      ],
+      "submittedAt": "2025-05-05 20:45:00",
+      "guestName": "Olivia Martinez",
+      "listingName": "Sunny Apartment in Barcelona"
+    },
+    {
+      "id": 1009,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "A magical getaway! The cabin was incredibly cozy and had a stunning view of the highlands. It was the perfect escape from the city. We're already planning our next trip back!",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "respect_house_rules", "rating": 10 }
+      ],
+      "submittedAt": "2025-06-12 18:00:00",
+      "guestName": "Liam McGregor",
+      "listingName": "Cozy Cabin in the Scottish Highlands"
+    },
+    {
+      "id": 1010,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "A beautiful and peaceful cabin. The fireplace was a wonderful touch. The only minor issue was the access road, which was a bit rough on our small car, but it was worth it for the seclusion.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 9 },
+        { "category": "respect_house_rules", "rating": 8 }
+      ],
+      "submittedAt": "2025-05-18 11:20:00",
+      "guestName": "Chloe Dubois",
+      "listingName": "Cozy Cabin in the Scottish Highlands"
+    },
+    {
+      "id": 1011,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "The location is breathtaking, but the cabin itself felt a bit overpriced for the amenities provided. It's a good option if you're prioritizing views over comfort.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 7 },
+        { "category": "communication", "rating": 8 },
+        { "category": "respect_house_rules", "rating": 9 }
+      ],
+      "submittedAt": "2025-04-30 15:00:00",
+      "guestName": "Ben Schmidt",
+      "listingName": "Cozy Cabin in the Scottish Highlands"
+    },
+    {
+      "id": 1012,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "This flat exceeded all expectations! The balcony view was breathtaking, and the amenities were top-notch. The host went above and beyond to make our stay comfortable.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "respect_house_rules", "rating": 10 }
+      ],
+      "submittedAt": "2025-06-20 13:40:00",
+      "guestName": "Anna Petrova",
+      "listingName": "2 Bed Balcony Flat Chelsea Harbour"
+    },
+    {
+      "id": 1013,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Nice flat with a great location. The kitchen could use a few more utensils, but otherwise, we had a pleasant stay. Check-in was smooth and the host was responsive.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 9 },
+        { "category": "respect_house_rules", "rating": 8 }
+      ],
+      "submittedAt": "2025-07-01 17:10:00",
+      "guestName": "Marco Rossi",
+      "listingName": "2 Bed Balcony Flat Chelsea Harbour"
+    },
+    {
+      "id": 1014,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "The flat was clean and spacious, but there was construction nearby that made it noisy during the day. The host was apologetic and offered us a late checkout, which we appreciated.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 8 },
+        { "category": "respect_house_rules", "rating": 7 }
+      ],
+      "submittedAt": "2025-07-15 09:30:00",
+      "guestName": "Sophie Müller",
+      "listingName": "2 Bed Balcony Flat Chelsea Harbour"
+    }
+  ]
+}
