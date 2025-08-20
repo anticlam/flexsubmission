@@ -127,6 +127,10 @@ The Hostaway integration uses a hybrid approach: it authenticates with the real 
 - **Review Quality**: High-quality reviews with author information and timestamps  
 - **Limitations**: Standard API returns maximum 5 reviews per location; more requires Google Premium Plan. Currently, only the first page of search results is used, for a maximum of 20 results per search.
 - **Integration Opportunities**: Complementary data source for competitive analysis and comprehensive review aggregation
-**Recommendation**: Google reviews can be used as supplementary data alongside Hostaway reviews for comprehensive reputation management, as long as we can ensure that the site and google reviews listings match, and as long as cost is not an issue and proper rate-limiting is enabled. 
+**Recommendation**: Google reviews can be used as supplementary data alongside Hostaway reviews for comprehensive reputation management, as long as we can ensure that the site and google reviews listings match, and as long as cost is not an issue and proper rate-limiting is enabled.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 

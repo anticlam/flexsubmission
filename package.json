@@ -2,6 +2,7 @@
   "name": "flex-living-dashboard",
   "version": "1.0.0",
   "description": "Reviews Dashboard for Flex Living - Developer Assessment",
+  "license": "GPL-3.0-only",
   "scripts": {
     "start": "node start-all.js",
     "dev": "node start-all.js",
