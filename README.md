@@ -1,5 +1,13 @@
+
+<img width="2005" height="1025" alt="image" src="https://github.com/user-attachments/assets/b02d5c59-de65-4542-a73f-afa3342790b6" />
+<img width="2008" height="1001" alt="image" src="https://github.com/user-attachments/assets/f5d64fde-7b9a-45cb-9b2b-d332d60b3ec6" />
+<img width="1981" height="1037" alt="image" src="https://github.com/user-attachments/assets/9f425bfd-8e3c-4153-9525-352721b38d9b" />
+<img width="2020" height="1002" alt="image" src="https://github.com/user-attachments/assets/9519a2c9-d4ff-45ad-a772-ebbf5a526254" />
+
+
+
 # Flex Living - Developer Assessment
-A developer assessment I did for this one company. I passed all of the technical interviews and assessments with flying colors. They were particularly impressed by this dashboard. Unfortunately, after all this hard work, the CEO (in a non-technical interview) decided I wasn't a good "culture fit" because he asked me a question where the expected answer was that I should ask companies' for their customers' log-ins so that I could collect their private data. Complete shady, scammy, company with an unqualified person cosplaying CEO. Stay away, both as a consumer and developer.
+A developer assessment I did for this one company. I passed all of the technical interviews and assessments with flying colors. They were particularly impressed by this dashboard. Unfortunately, after wasting my time with all this hard work, the CEO (in a non-technical interview) decided I wasn't a good "culture fit" because he asked me a question where an expected answer was that I should ask companies' for their customers' log-ins so that I could collect their private data. Shady, scammy, company with an unqualified person cosplaying CEO. Stay away, both as a consumer and developer.
 
 ## 🚀 Quick Start
 
